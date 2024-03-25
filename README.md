@@ -1,7 +1,7 @@
 # Testes automatizados com Cypress - Básico
 
-npx cypress run  /  npm run cy:open-> Modo headless
-npm run cy:open:mobile -> Modo interativo
+- npx cypress run  /  npm run cy:open-> Modo headless
+- npm run cy:open:mobile -> Modo interativo
 
 
 ## O que você vai aprender
